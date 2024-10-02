@@ -32,3 +32,4 @@ From crunching numbers on coffee sales to decoding real estate trends, I'm a dat
 ### 💡 Fun Fact:
 
 When I'm not deep into data, you can find me doing **ring muscle-up training** or exploring the latest developments in **machine learning**!
+
