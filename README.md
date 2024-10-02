@@ -5,7 +5,9 @@ I'm a data-loving bilingual wizard fluent in English, French, and Python, turnin
 
 ### 📫 How to Reach Me:
 
-- LinkedIn: [https://www.linkedin.com/in/r%C3%A9my-nguyen-binh]
-- GitHub: [https://github.com/remy-nguyen-binh]
-- Email: [nguyenbinh.remy@gmail.com]
+
+- LinkedIn: [Remy on LinkedIN](https://www.linkedin.com/in/remynguyenbinh-774b11269)
+- GitHub: [Remy on Github](https://github.com/remy-nguyen-binh)
+- Email: [My Email](nguyenbinh.remy@gmail.com)
+
 
