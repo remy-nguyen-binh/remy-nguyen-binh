@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Remy Nguyen 
-👋 Hey there! I'm Remy Nguyen – a data-loving bilingual wizard fluent in English, French, and Python, turning messy data into dazzling insights while juggling algorithms like a circus pro; if I’m not predicting coffee sales or decoding real estate, I’m probably failing to forecast my own career trajectory – and yes, I do ring muscle-ups in my free time!
+I'm a data-loving bilingual wizard fluent in English, French, and Python, turning messy data into dazzling insights while juggling algorithms like a circus pro; if I’m not predicting coffee sales or decoding real estate, I’m probably failing to forecast my own career trajectory – and yes, I do ring muscle-ups in my free time!
 
 ---
 
