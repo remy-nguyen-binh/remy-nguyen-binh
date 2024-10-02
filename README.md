@@ -2,46 +2,21 @@
 
 ### 🚀 About Me
 
-I’m a bilingual (English & French) Data Analyst with a solid background in **data analysis, visualization**, and **problem-solving**. With hands-on experience in various tools and programming languages, I am passionate about helping businesses make data-driven decisions.
+Bilingual data whisperer here, fluent in English, French, and Python! I turn business puzzles into data-driven solutions, all while juggling tools and algorithms like a tech-savvy circus performer. Always learning, because in data science, if you snooze, you lose... the dataset!
 
-I am constantly learning and evolving in the fields of **Data Science** and **Machine Learning**, and I enjoy exploring new ways to make data insights actionable. Below you will find some of my projects, skills, and ways to connect with me.
 
 ---
 
 ### 🧑‍💻 What I Do:
 
-- 🔍 **Data Cleaning** – Organizing and preparing datasets for analysis
-- 📊 **Exploratory Data Analysis (EDA)** – Gaining insights and identifying trends in data
-- 📈 **Data Visualization** – Communicating data-driven insights using tools like **Power BI**, **Tableau**, and **Python** libraries (Matplotlib, Seaborn)
-- 🧮 **Statistical Analysis** – Applying statistical methods to solve complex problems
-- 🛠️ **SQL & Excel** – Managing and querying databases, working with large datasets
-- 🧑‍🤝‍🧑 **Collaboration** – Working with cross-functional teams to ensure data aligns with business objectives
+Data wizard extraordinaire: I clean, explore, visualize, and analyze numbers 🔍📊📈🧮🛠️ like a pro, wielding Python, R, SQL, and more. I turn messy data into dazzling insights, all while playing nice with others 🧑‍🤝‍🧑 - because even data needs friends!
 
----
-
-### 🛠️ Tools & Technologies:
-
-- **Programming Languages**: Python (Pandas, Numpy), R
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
-- **Databases**: SQL, MySQL, PostgreSQL
-- **Other Tools**: Excel, Google Sheets, Git, Jupyter Notebooks
-
----
-
-### 🌱 Currently Learning:
-
-- Machine Learning Algorithms with Python (Scikit-learn)
-- Advanced SQL for querying and managing complex databases
-- Time Series Analysis and Forecasting
 
 ---
 
 ### 💼 Experience:
 
-- **Junior Data Analyst** at UpWork
-- **Google Data Analytics Certified** (2024)
-- Hands-on experience with **HR analytics**, **real estate market trends**, and **coffee sales studies**
-- Experience working with **diverse and marginalized communities** through previous health care roles
+From crunching numbers on coffee sales to decoding real estate trends, I'm a data-savvy, Google-certified analyst who's equally comfortable with spreadsheets and diverse communities - just don't ask me to predict my own career trajectory!
 
 ---
 
